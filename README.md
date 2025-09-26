@@ -1,3 +1,6 @@
+## Portable Neovim installation script
+The script downloads portable Neovim, MinGit, fzf, ripgrep, fd, Goneovim, Fira Code and [my Neovim configuration](https://github.com/bissakov/nvim.conf).
+
 ## Installation
 
 ### Powershell
