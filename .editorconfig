@@ -1,0 +1,13 @@
+root = true
+
+[*.lua]
+indent_style = space
+indent_size = 2
+
+[*.bat]
+indent_style = space
+indent_size = 2
+
+[*.ps1]
+indent_style = space
+indent_size = 2
