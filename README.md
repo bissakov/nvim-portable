@@ -3,6 +3,8 @@ The script downloads portable Neovim, MinGit, fzf, ripgrep, fd, Goneovim, Fira C
 
 ## Installation
 
+Skipt `git clone` if you don't have `git` installed. Manually download this repo as ZIP.
+
 ### Powershell
 ```powershell
 git clone https://github.com/bissakov/nvim-portable.git
