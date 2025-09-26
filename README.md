@@ -12,7 +12,7 @@ goneovim
 ```powershell
 git clone https://github.com/bissakov/nvim-portable.git
 
-powershell -NoProfile -ExecutionPolicy Bypass -File .\install.bat
+powershell -NoProfile -ExecutionPolicy Bypass -File .\install.ps1
 .\start-shell.bat
 goneovim
 ```
